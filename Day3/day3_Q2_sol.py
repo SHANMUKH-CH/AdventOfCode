@@ -1,5 +1,6 @@
 # Right 3, down 1. (This is the slope you already checked.
 # counting and multiplying the remaning trees
+#!/usr/bin/env python3
 import fileinput
 
 formatted_INPUT = [l.rstrip('\n') for l in fileinput.input('day3_input.txt')]

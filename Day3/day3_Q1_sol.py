@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import fileinput
 
 formatted_INPUT = [x.rstrip('\n') for x in fileinput.input('day3_input.txt')]
