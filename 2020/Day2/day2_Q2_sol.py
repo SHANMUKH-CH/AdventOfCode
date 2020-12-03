@@ -1,7 +1,8 @@
 import re
 def _Q2(x):
     """
-    In input argument there are three elements 1.atleast 2.atmost 3.password    
+    In input argument there are three elements 1.atleast 2.atmost 3.password
+    
     """
     return sum(password[atleast-1] ^ password[atmost-1] for atleast, atmost, password in x)
 
