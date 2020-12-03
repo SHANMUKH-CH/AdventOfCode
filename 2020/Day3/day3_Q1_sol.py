@@ -8,10 +8,10 @@ rows, cols = len(formatted_INPUT), len(formatted_INPUT[0])
 #cols = number of columns in input file
 
 def countingTress():
-    row=tress=col=0
+    row=tress=col=0 
     while row < rows: #while not reached the bottom
-        row += 1
-        col += 3
+        row += 1 #1 down
+        col += 3 #3 right
         if row >= rows: break #if iterating rows greater than rows in file it break
         if formatted_INPUT[row][col % cols] == '#':
             '''
@@ -21,4 +21,6 @@ def countingTress():
             '''
             tress += 1
     return tress
-print(countingTress())
+
+if __name__=='__main__':
+    print(countingTress())
