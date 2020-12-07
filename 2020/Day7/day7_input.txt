@@ -49,7 +49,7 @@ posh olive bags contain 1 shiny coral bag, 4 clear beige bags, 4 light bronze ba
 posh teal bags contain 1 drab yellow bag.
 bright green bags contain 4 drab purple bags, 5 shiny yellow bags.
 pale lavender bags contain 3 drab olive bags, 2 muted beige bags, 4 muted blue bags, 1 dim fuchsia bag.
-faded green bags contain 1 dim turquoise bag, 5 drab cyan bags, 2 clear tomato bags, 2 light brown bags.
+faded green bags contain 1 dim turquoise bag, 5 drab cyan bags, 4 clear tomato bags, 2 light brown bags.
 wavy blue bags contain 2 striped red bags, 5 dark gold bags, 5 clear white bags.
 plaid olive bags contain 5 pale aqua bags.
 muted purple bags contain 4 bright bronze bags.
