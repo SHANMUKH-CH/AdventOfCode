@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 def _Q1(x):
     _one, _three = 0, 0
     for x, y in zip(x, x[1:]):
