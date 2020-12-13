@@ -1,6 +1,6 @@
 from itertools import count
 from sympy.ntheory.modular import solve_congruence
-
+#https://brilliant.org/wiki/chinese-remainder-theorem/
 def _Q2(b):
     return solve_congruence(*b)[0]
 
