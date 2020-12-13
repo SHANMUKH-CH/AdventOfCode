@@ -9,5 +9,5 @@ if __name__ == '__main__':
         x = [x.strip() for x in x.readlines()]
     _1st = int(x[0])
     b_times = [(-i, int(x)) for i, x in enumerate(x[1].split(',')) if x != 'x']
-    #unpacking tuples check my python tricks and tips subdir in pythonprogram repo
+    #https://github.com/SHANMUKH-CH/pythonPrograms/blob/main/tricks%20and%20tips/unpacking.py
     print(_Q2(b_times))
